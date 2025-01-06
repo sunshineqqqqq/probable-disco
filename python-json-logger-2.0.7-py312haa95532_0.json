@@ -1,0 +1,46 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\python-json-logger-2.0.7-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/python_json_logger-2.0.7.dist-info/INSTALLER",
+    "Lib/site-packages/python_json_logger-2.0.7.dist-info/LICENSE",
+    "Lib/site-packages/python_json_logger-2.0.7.dist-info/METADATA",
+    "Lib/site-packages/python_json_logger-2.0.7.dist-info/RECORD",
+    "Lib/site-packages/python_json_logger-2.0.7.dist-info/REQUESTED",
+    "Lib/site-packages/python_json_logger-2.0.7.dist-info/WHEEL",
+    "Lib/site-packages/python_json_logger-2.0.7.dist-info/direct_url.json",
+    "Lib/site-packages/python_json_logger-2.0.7.dist-info/top_level.txt",
+    "Lib/site-packages/pythonjsonlogger/__init__.py",
+    "Lib/site-packages/pythonjsonlogger/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pythonjsonlogger/__pycache__/jsonlogger.cpython-312.pyc",
+    "Lib/site-packages/pythonjsonlogger/jsonlogger.py",
+    "Lib/site-packages/pythonjsonlogger/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "python-json-logger-2.0.7-py312haa95532_0.conda",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\python-json-logger-2.0.7-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "53c72494a6860cd6ac7edbce4d105490",
+  "name": "python-json-logger",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\python-json-logger-2.0.7-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::python-json-logger==2.0.7=py312haa95532_0[md5=53c72494a6860cd6ac7edbce4d105490]",
+  "sha256": "3daff7edda5d59abf6c19513552c8f5bde4eafcc4862811a0426d5abf6440f4b",
+  "size": 17731,
+  "subdir": "win-64",
+  "timestamp": 1699543656000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/python-json-logger-2.0.7-py312haa95532_0.conda",
+  "version": "2.0.7"
+}
